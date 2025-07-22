@@ -1,0 +1,2 @@
+# TrendFollowStrategy
+TrendFollowStrategy
